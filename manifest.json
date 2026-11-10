@@ -1,0 +1,59 @@
+{
+  "manifestVersion": 1,
+  "name": "Frank's addons",
+  "addons": [
+    {
+      "id": "chatkeep",
+      "name": "ChatKeep",
+      "version": "0.1.0",
+      "gameVersion": "1.60.1",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/chatkeep-v0.1.0/ChatKeep-0.1.0.zip",
+      "sha256": "9e5db532fbfb87fcea79bd097970847910b3e90edbaba6612be2ad48edbd58c6",
+      "folders": [
+        "ChatKeep"
+      ],
+      "dependencies": [],
+      "changelog": "First release"
+    },
+    {
+      "id": "flightlog",
+      "name": "FlightLog",
+      "version": "0.1.0",
+      "gameVersion": "1.60.1",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/flightlog-v0.1.0/FlightLog-0.1.0.zip",
+      "sha256": "14c9773e30b0f77570783653798f76695428bf774805076f6e8ea3e7ed76c771",
+      "folders": [
+        "FlightLog"
+      ],
+      "dependencies": [],
+      "changelog": "First release"
+    },
+    {
+      "id": "levellog",
+      "name": "LevelLog",
+      "version": "0.2.0",
+      "gameVersion": "1.60.1",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v0.2.0/LevelLog-0.2.0.zip",
+      "sha256": "2e7c584f7d66606afb4c25d5e471ad204f8961fd6c4ff532e5f619fe4fcc5c0c",
+      "folders": [
+        "LevelLog"
+      ],
+      "dependencies": [],
+      "changelog": "First release"
+    },
+    {
+      "id": "pricelog",
+      "name": "PriceLog",
+      "version": "0.2.0",
+      "gameVersion": "1.60.1",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.2.0/PriceLog-0.2.0.zip",
+      "sha256": "0d76c0bb4aa8328d058285d2d34fdb025345aa1abfac95ffc068025e06908185",
+      "folders": [
+        "PriceLog",
+        "PriceLog_Recipes"
+      ],
+      "dependencies": [],
+      "changelog": "First release"
+    }
+  ]
+}
