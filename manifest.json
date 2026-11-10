@@ -5,15 +5,15 @@
     {
       "id": "chatkeep",
       "name": "ChatKeep",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/chatkeep-v0.1.0/ChatKeep-0.1.0.zip",
-      "sha256": "9e5db532fbfb87fcea79bd097970847910b3e90edbaba6612be2ad48edbd58c6",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/chatkeep-v1.0.0/ChatKeep-1.0.0.zip",
+      "sha256": "9361f3bec67e73801e37d82612fdd6d6cf2fe6327a8b771fb6aa760a65287c53",
       "folders": [
         "ChatKeep"
       ],
       "dependencies": [],
-      "changelog": "First release"
+      "changelog": "1.0: no changes since 0.1.0; works in game"
     },
     {
       "id": "flightlog",
@@ -55,5 +55,11 @@
       "dependencies": [],
       "changelog": "First release"
     }
-  ]
+  ],
+  "app": {
+    "version": "1.0.0",
+    "download": "https://github.com/Magleren/guildpack-manifest/releases/download/guildpack-v1.0.0/Guildpack-1.0.0.exe",
+    "sha256": "b8077046e08aba39f610e9342c965b3689fc0298f13fc58930d38e9c8d148261",
+    "changelog": "First release"
+  }
 }
