@@ -31,15 +31,15 @@
     {
       "id": "levellog",
       "name": "LevelLog",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v0.2.0/LevelLog-0.2.0.zip",
-      "sha256": "2e7c584f7d66606afb4c25d5e471ad204f8961fd6c4ff532e5f619fe4fcc5c0c",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v0.2.1/LevelLog-0.2.1.zip",
+      "sha256": "38be6d2013d98ee58fd4744ddb936470a5570e12d331040bb65b7889829ce3e0",
       "folders": [
         "LevelLog"
       ],
       "dependencies": [],
-      "changelog": "First release"
+      "changelog": "Zone quest tracking tracks every quest that belongs to your zone (by its header or objectives/turn-in on the zone map) and untracks the rest. /ll export shows live played time for the level you are on."
     },
     {
       "id": "pricelog",
