@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.1/PriceLog-0.3.1.zip",
-      "sha256": "8d98e63ed38576b970bcb8e1fbc7e0c3dad866cd698e2b1d7199a5a6f7c19447",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.2/PriceLog-0.3.2.zip",
+      "sha256": "84284da9f337f8db7bfaaf0223254a4b7cbfd0a0104c543ff2f40ba0a6b8fcfc",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Leveler: works without AH prices (uses recipes whose reagents have no price yet instead of 'No recipe gives points'); no longer breaks leathers down into scraps or the grade below"
+      "changelog": "Full bags: potions, elixirs and flasks are never suggested to throw away"
     }
   ],
   "app": {
