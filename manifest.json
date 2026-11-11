@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.0/PriceLog-0.3.0.zip",
-      "sha256": "911ae7330fdf4200b3bef1450fd9b5949c8ca827f9995c91f81af6626ad0a228",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.1/PriceLog-0.3.1.zip",
+      "sha256": "8d98e63ed38576b970bcb8e1fbc7e0c3dad866cd698e2b1d7199a5a6f7c19447",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Leveler: each recipe lists its reagents (with icons, what you own, and what crafted ones are made from), recipe names look like the profession window, click selects the recipe there. Quest items name their quest; Alt+click opens it in the quest log. Sales tracker for your own auctions. Fixes: quest reward coin, full bags with quest loot, greys count as vendor items, bag coin can mark vendor items (/pl bagcoin)."
+      "changelog": "Leveler: works without AH prices (uses recipes whose reagents have no price yet instead of 'No recipe gives points'); no longer breaks leathers down into scraps or the grade below"
     }
   ],
   "app": {
