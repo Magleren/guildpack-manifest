@@ -57,9 +57,9 @@
     }
   ],
   "app": {
-    "version": "1.0.0",
-    "download": "https://github.com/Magleren/guildpack-manifest/releases/download/guildpack-v1.0.0/Guildpack-1.0.0.exe",
-    "sha256": "b8077046e08aba39f610e9342c965b3689fc0298f13fc58930d38e9c8d148261",
-    "changelog": "First release"
+    "version": "1.0.1",
+    "download": "https://github.com/Magleren/guildpack-manifest/releases/download/guildpack-v1.0.1/Guildpack-1.0.1.exe",
+    "sha256": "03f6f4013d1e2d54c740749bdaff5cab7eed9270935621683746ec67183d5ff4",
+    "changelog": "Finds your WoW: Forever folder by itself (from Battle.net, or the usual places on every drive)."
   }
 }
