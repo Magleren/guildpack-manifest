@@ -18,15 +18,15 @@
     {
       "id": "flightlog",
       "name": "FlightLog",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/flightlog-v0.1.0/FlightLog-0.1.0.zip",
-      "sha256": "14c9773e30b0f77570783653798f76695428bf774805076f6e8ea3e7ed76c771",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/flightlog-v0.2.0/FlightLog-0.2.0.zip",
+      "sha256": "9571b1c26ccafaf239251254ef2ae856003c7c2a4c540a6d175149dd3d56b250",
       "folders": [
         "FlightLog"
       ],
       "dependencies": [],
-      "changelog": "First release"
+      "changelog": "Ships with known flight times for 10 routes, so new installs show times before your first flight."
     },
     {
       "id": "levellog",
