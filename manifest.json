@@ -31,15 +31,15 @@
     {
       "id": "levellog",
       "name": "LevelLog",
-      "version": "0.2.1",
+      "version": "0.3.3",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v0.2.1/LevelLog-0.2.1.zip",
-      "sha256": "38be6d2013d98ee58fd4744ddb936470a5570e12d331040bb65b7889829ce3e0",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v0.3.3/LevelLog-0.3.3.zip",
+      "sha256": "3857787e23bf9434c99da4cc3265af3a254055ac0a1c26d71c8c8654ee664c93",
       "folders": [
         "LevelLog"
       ],
       "dependencies": [],
-      "changelog": "Zone quest tracking tracks every quest that belongs to your zone (by its header or objectives/turn-in on the zone map) and untracks the rest. /ll export shows live played time for the level you are on."
+      "changelog": "Days tab: a daily gold log with start/end gold and sources. Gold on hand at each level-up (estimated for older levels), shown under the summary line. Wider window so all six tabs fit."
     },
     {
       "id": "pricelog",
