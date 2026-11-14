@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.3.2",
+      "version": "0.3.7",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.2/PriceLog-0.3.2.zip",
-      "sha256": "84284da9f337f8db7bfaaf0223254a4b7cbfd0a0104c543ff2f40ba0a6b8fcfc",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.7/PriceLog-0.3.7.zip",
+      "sha256": "095f83b0d0284164dfb2f728e6399d33ff6d95909819aed6262678fd4c20783a",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Full bags: potions, elixirs and flasks are never suggested to throw away"
+      "changelog": "Quest items also find delivery quests by their text. The leveler's route steps count only what earlier steps leave over, and a button ranks recipes by net cost or by reagents alone. Price history no longer overflows on very high prices. The scan bar shows the full scan's 15-minute countdown; /pl quickscan tries a quick scan of the AH browse list."
     }
   ],
   "app": {
