@@ -18,28 +18,28 @@
     {
       "id": "flightlog",
       "name": "FlightLog",
-      "version": "0.2.1",
+      "version": "1.0.0",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/flightlog-v0.2.1/FlightLog-0.2.1.zip",
-      "sha256": "94530cba53a09fde2e001f081707b6d679b4f41b525147f4e4d4d1cd29cb7e10",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/flightlog-v1.0.0/FlightLog-1.0.0.zip",
+      "sha256": "23ebc6088db8298e55235cb777b7d23b85ca14b49c7565e4ae1d0a384504389a",
       "folders": [
         "FlightLog"
       ],
       "dependencies": [],
-      "changelog": "Share flight times in a party: hello when the group grows, answers on the group channel."
+      "changelog": "1.0.0: stable release. Known flight times now cover 42 routes."
     },
     {
       "id": "levellog",
       "name": "LevelLog",
-      "version": "0.3.3",
+      "version": "1.0.0",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v0.3.3/LevelLog-0.3.3.zip",
-      "sha256": "3857787e23bf9434c99da4cc3265af3a254055ac0a1c26d71c8c8654ee664c93",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/levellog-v1.0.0/LevelLog-1.0.0.zip",
+      "sha256": "a49de8d9438b2879d887aed4aee649850a86a827c385d7b44659e9ec2d6b55a4",
       "folders": [
         "LevelLog"
       ],
       "dependencies": [],
-      "changelog": "Days tab: a daily gold log with start/end gold and sources. Gold on hand at each level-up (estimated for older levels), shown under the summary line. Wider window so all six tabs fit."
+      "changelog": "1.0.0: stable release. Fixes an error in combat when reading mob info (secret values)."
     },
     {
       "id": "pricelog",
