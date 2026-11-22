@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.3.8",
+      "version": "0.4.0",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.3.8/PriceLog-0.3.8.zip",
-      "sha256": "acb4e60e0c290dd0cd4bb259af474f222b180538b32429145a9707c37ba8fdba",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.4.0/PriceLog-0.4.0.zip",
+      "sha256": "7234b3b4c8a7ec9152b78a14a55f8fec7da9bbe19853c08f2594d7664a6df9bf",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Gold tooltip on your bags: every character's gold and the total. Automatic AH scan is now the quick one (the full scan runs from the Scan AH button). Leveler: pick another profession, cheapest reagent prices and vendor prices per reagent. AH purchases show in your saved mail until you open a mailbox. AH price data from Blizzard's API is supported when the PriceLog AH addon is installed (not shared yet)."
+      "changelog": "Works again after Blizzard's Nov 20 realm-name change (old prices come back at login); Deals tab on the AH window; craft profit in tooltips"
     }
   ],
   "app": {
