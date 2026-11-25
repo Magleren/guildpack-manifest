@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.5.0/PriceLog-0.5.0.zip",
-      "sha256": "8bcdf43cb0c3e190830fbc66cfb5e850b3677cccc76dc3f978910987a6aa2b01",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.5.1/PriceLog-0.5.1.zip",
+      "sha256": "f04aa465bcfa8f588e3de226d543c437a38760ba13a705bbaf391dbadc4641c8",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Gold sessions: a minimap button counts the value of everything you gain per hour (vendor sales count as coin), with a history of farms. AH: PriceLog asks before you post far under the usual price (bots post cheap so the AH suggests their price), and the sell window starts at the market price when someone undercuts a lot. Sales tracker: each sale is counted once at its real price (old broken records are cleared). A scan at the Blackwater AH no longer overwrites faction prices; deals drop listings a newer scan no longer saw; crate bundles and leveler reagent counts fixed."
+      "changelog": "Best AH: Blackwater is now suggested only when you keep 50% more there after both AHs' cuts. Change it in Options > AddOns > PriceLog (Blackwater: how much more it must pay), e.g. down to 1.0 if you have an alt parked there."
     }
   ],
   "app": {
