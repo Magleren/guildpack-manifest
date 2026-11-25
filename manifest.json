@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.4.0/PriceLog-0.4.0.zip",
-      "sha256": "7234b3b4c8a7ec9152b78a14a55f8fec7da9bbe19853c08f2594d7664a6df9bf",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.5.0/PriceLog-0.5.0.zip",
+      "sha256": "8bcdf43cb0c3e190830fbc66cfb5e850b3677cccc76dc3f978910987a6aa2b01",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Works again after Blizzard's Nov 20 realm-name change (old prices come back at login); Deals tab on the AH window; craft profit in tooltips"
+      "changelog": "Gold sessions: a minimap button counts the value of everything you gain per hour (vendor sales count as coin), with a history of farms. AH: PriceLog asks before you post far under the usual price (bots post cheap so the AH suggests their price), and the sell window starts at the market price when someone undercuts a lot. Sales tracker: each sale is counted once at its real price (old broken records are cleared). A scan at the Blackwater AH no longer overwrites faction prices; deals drop listings a newer scan no longer saw; crate bundles and leveler reagent counts fixed."
     }
   ],
   "app": {
