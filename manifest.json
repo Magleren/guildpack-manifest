@@ -44,16 +44,16 @@
     {
       "id": "pricelog",
       "name": "PriceLog",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "gameVersion": "1.60.1",
-      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.5.1/PriceLog-0.5.1.zip",
-      "sha256": "f04aa465bcfa8f588e3de226d543c437a38760ba13a705bbaf391dbadc4641c8",
+      "download": "https://github.com/Magleren/guildpack-manifest/releases/download/pricelog-v0.5.2/PriceLog-0.5.2.zip",
+      "sha256": "5ca3e438e7e314d5bcf3aefc347255100628d71e6c3d6a0d9a152097997bd234",
       "folders": [
         "PriceLog",
         "PriceLog_Recipes"
       ],
       "dependencies": [],
-      "changelog": "Best AH: Blackwater is now suggested only when you keep 50% more there after both AHs' cuts. Change it in Options > AddOns > PriceLog (Blackwater: how much more it must pay), e.g. down to 1.0 if you have an alt parked there."
+      "changelog": "Leveler: the Profit tab has an Unlearned checkbox that also lists recipes you haven't learned, with where to learn them and what it costs."
     }
   ],
   "app": {
